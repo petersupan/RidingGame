@@ -1,0 +1,8 @@
+Am Besten alles was in diesem Ordner hier ist in einen Ordner auf deiner Festplatte kopieren. Kannst auch von der Cd starten, ist aber seeehr langsam.
+
+Starten mit Doppelklick auf StartFullscreen.bat (Spiel füllt den ganzen Bildschirm) oder auf StartWindow.bat (Spiel läuft im Fenster).
+
+Lautstärke nicht zu laut aufdrehen, Spiel hat an manchen Stellen Musik ;).
+
+viel Spass,
+Peda
